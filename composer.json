@@ -1,0 +1,20 @@
+{
+    "name": "tws/certificates-module",
+    "description": "Manage bank/post or any other investment certificates",
+    "type": "streams-addon",
+    "autoload": {
+        "psr-4": {
+            "Tws\\CertificatesModule\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daksh Mehta",
+            "email": "dakshhmehta@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "dakshhmehta@gmail.com"
+    }
+}
